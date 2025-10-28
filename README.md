@@ -69,3 +69,10 @@ Our project follows a structured **data-driven approach**:
  - By identifying the most relevant features, we aimed to enhance the efficiency and interpretability of our models. For feature selection, we have used the SelectKBest from sklearn.feature_selection to select the top k features based on the chi-squared (chi2) statistical test.
  - By harnessing the predictive power of machine learning algorithms, we unlock the ability to forecast future trends in terrorism based on historical data. Through the implementation of Random Forest, Support Vector Machines, and Gradient Boosting models, we have developed predictive models to forecast future trends in terrorism.
 
+## 🚧 Future Work
+
+- Extend analysis to real-time terrorism news via APIs
+
+- Integrate Geospatial mapping (Plotly/Folium)
+
+- Deploy as a dashboard using Streamlit or Flask
